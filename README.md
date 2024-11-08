@@ -16,8 +16,8 @@ HEICファイルをPNGまたはJPEG形式に一括変換できるStreamlitアプ
 
 1. リポジトリのクローン
 ```bash
-git clone https://github.com/yourusername/heic-converter.git
-cd heic-converter
+git clone https://github.com/Hiroe28/heic_to_png_or_jpeg.git
+cd heic_to_png_or_jpeg
 ```
 
 2. 仮想環境の作成（推奨）
