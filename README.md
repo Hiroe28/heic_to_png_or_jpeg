@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 1. アプリケーションの起動
 ```bash
-streamlit run app.py
+streamlit run heic_to_png_or_jpeg.py
 ```
 
 2. ブラウザが自動で開き、アプリケーションにアクセスできます（通常はhttp://localhost:8501）
